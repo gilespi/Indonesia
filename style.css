@@ -1277,6 +1277,7 @@ figure img {
   .hero-wrap.hero-wrap-2 {
     height: 750px !important;
     position: relative;
+    margin-bottom: 30px;
    }
 
 .hero-wrap.hero-wrap-2 .overlay {
