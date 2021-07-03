@@ -846,10 +846,10 @@ figure img {
 }
     
 .btn.bg-blue-ui.white.read:hover {
-    box-shadow: 0px 5px 15px inset #5d5f77;
+    background: #fff !important;
+    color: #1089ff !important;
 }
     
-
 
 /*Testimonial*/
 
