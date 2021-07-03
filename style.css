@@ -675,6 +675,12 @@ h1 {
     margin: 0 auto;
 }
 
+@media (max-width: 500.98px) {
+  .ag-parallax h1 {
+    font-size: 35px;
+  }
+  }
+
 @media (max-width: 468px) {
   .ag-parallax .ag-title {
     padding-top: 20px;
