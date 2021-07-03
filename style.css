@@ -786,12 +786,7 @@ figure img {
 }
     
 .item-box-blog-date {
-    position: absolute;
-    z-index: 5;
-    padding: 5px 20px;
-    top: -20px;
-    right: 8px;
-    background-color: #007bff;
+ display: none;
 }
     
 .item-box-blog-date span {
